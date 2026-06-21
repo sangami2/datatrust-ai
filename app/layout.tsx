@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import "./globals.css";
 import { Sidebar } from "@/components/layout/Sidebar";
@@ -23,6 +24,7 @@ export default function RootLayout({
           {children}
         </main>
         <CopilotWidget />
+        <Analytics />
       </body>
     </html>
   );
