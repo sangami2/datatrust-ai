@@ -1,24 +1,17 @@
 # DataTrust AI
 
+**Demo Video - **
+
+
+https://github.com/user-attachments/assets/b7b3ed5c-e9ac-4f6b-a9be-09db98c5db00
+
+
 **Know which data products are ready to power AI — and what to fix when they are not.**
 
 DataTrust AI is a prototype for data-product teams managing AI readiness across enterprise data assets. It helps teams discover trusted datasets, evaluate fitness for AI use cases, identify quality blockers, and prioritize remediation based on business impact.
 
 > **Synthetic Data Disclaimer:** All data products, quality scores, incidents, and business metrics in this application are entirely synthetic and created for portfolio demonstration purposes. This project is not affiliated with, endorsed by, or built using data from Walmart, Sam's Club, or any of their subsidiaries. No proprietary data was used.
 
----
-
-## Screenshots
-
-| Dashboard | Data Catalog | Dataset Detail |
-|-----------|-------------|----------------|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
-
-| Incident Center | Prioritization | AI Copilot |
-|----------------|---------------|------------|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
-
----
 
 ## Setup
 
